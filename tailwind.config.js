@@ -5,6 +5,11 @@ export default {
     extend: {
       fontFamily: {
         essential: ['Arimo', 'sans-serif']
+      },
+      colors: {
+        'regal-purple': '#552583',
+        'golden-yellow': '#fdb927',
+        'davys-grey': '525252'
       }
     }
   },
