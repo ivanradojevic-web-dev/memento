@@ -9,7 +9,7 @@ export default {
       colors: {
         'regal-purple': '#552583',
         'golden-yellow': '#fdb927',
-        'davys-grey': '525252'
+        'davys-grey': '#525252'
       }
     }
   },

@@ -5,7 +5,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <div class="font-essential text-essential space-essential">
-    <header class="bg-golden-yellow flex flex-wrap space-essential">
+    <header class="bg-golden-yellow text-davys-grey flex flex-wrap space-essential">
       <h1 class="flex flex-wrap space-essential"><span>Ivan</span><span>Radojevic</span></h1>
 
       <!-- <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
