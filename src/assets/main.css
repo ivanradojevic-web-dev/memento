@@ -8,6 +8,6 @@
   }
 
   .space-essential {
-    @apply space-x-1 md:space-x-2 lg:space-x-4;
+    @apply space-x-1 md:space-x-2 lg:space-x-4 flex flex-wrap;
   }
 }
